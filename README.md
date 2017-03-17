@@ -1,2 +1,2 @@
-# BizDoors_React
-Revamp of BizDoors Website with ReactJS
+# BizDoors React
+Revamp of BizDoors Site using ReactJS
