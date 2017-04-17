@@ -1,0 +1,46 @@
+.Team {
+  text-align: center;
+  position: absolute;
+  top:10%;
+  width: 100%;
+  height: 100%;
+}
+
+.Team-header {
+  position: relative;
+  color: white;
+  font-size:3vw;
+  font-family: 'Nevis';
+  letter-spacing: -4px;
+  top:-8vh;
+}
+
+.Team-intro {
+  font-size: large;
+}
+
+.Team-Member{
+  display: inline-flex;
+  margin-left: 5%;
+  margin-right: 5%;
+  font-family: 'Josefin Sans';
+  color: white;
+  font-size: 2.5vw;
+}
+
+.teamdesc{
+  position: relative;
+  font-size: 1.5vw;
+  top:-14vh;
+}
+.Team-Pic{
+  height:30vh;
+  border-radius: 50%;
+  border: 5px solid white;
+}
+.Team-navigation{
+  position: relative;
+  font-family: 'Nevis';
+  color: white;
+  font-size: 1vw;
+}
